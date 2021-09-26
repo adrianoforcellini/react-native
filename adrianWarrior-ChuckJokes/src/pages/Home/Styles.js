@@ -9,7 +9,17 @@ const styles = StyleSheet.create({
   },
   text: {
     color : '#fff',// Hex Color Code.
-    textAlign : 'center'
+    textAlign : 'center',
+    margin: '5%',
+  },
+  imageContainer:{
+    height: '10%',
+    marginTop: '30%',
+    width: '20%',
+  },
+  image:{
+    height: '100%',
+    width: '100%',
   }
 });
 
