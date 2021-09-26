@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "adrianWarrior-extractTextsFromImages",
-    "slug": "adrianWarrior-extractTextsFromImages",
+    "name": "adrianWarrior-expoTest",
+    "slug": "adrianWarrior-expoTest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
